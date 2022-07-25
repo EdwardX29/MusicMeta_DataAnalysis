@@ -3,8 +3,6 @@ Script that takes Billboard hot 100 song and artist
 to search for Spotify ID for that song
 '''
 
-
-
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
