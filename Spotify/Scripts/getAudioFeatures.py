@@ -1,3 +1,9 @@
+'''
+Using spotify IDs, use Spotify's audio features endpoint
+to get musical aspect data on each song
+'''
+
+
 import json
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
