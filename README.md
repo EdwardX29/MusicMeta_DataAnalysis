@@ -15,12 +15,21 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 
 ## I. Abstract
 
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+
 ## II. Background Research
 
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+
 ## III. Questions
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ## IV. Methods
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ## V. Results
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ## VI. Discussion & Future Improvements
+
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
