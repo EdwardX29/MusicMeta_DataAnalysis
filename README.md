@@ -31,11 +31,11 @@ Music is an integral part of culture around the world. From the beginning of hum
 
 ---
 ## II. Questions
-To understand how music has evolved over a short period of time between 2000 and 2020, this project will seek to answer the following questions:
-* How has musical valence (the measure of happiness) changed between the eras 2000-2010 and 2010-2020?
+In order to better investigate how music has changed from the 2000s to the 2010s, I have divided my broad primary research question into the following sub-questions:
+* How has musical valence ([the measure of happiness](https://web.stanford.edu/~elenatuz/courses/stats32-aut2021/Spotify_analysis.html#:~:text=valence%20%3A%20A%20measure%20from%200.0,sad%2C%20depressed%2C%20angry)) changed between the eras 2000-2010 and 2010-2020?
 * In what ways has the diversity of lyrical content in pop music evolved in the last two decades?
 * Which elements of pop music remained the same throughout the years?
-* How has the role of collaboration played in the evolution of music between these two decades?
+* How has the role of collaboration changed between these two decades?
    
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s) 
      
@@ -100,7 +100,14 @@ I decided that my definition of a popular song would be similar to that of other
 
 ### **Billboard Data Collection**
 
-For my original research, I began by collecting the most popular songs from the years 2000 to 2020. For this task, I utilized the Billboard Top 100’s weekly song rankings for each week from 2000 to 2020. To accomplish this, I used [billboard.py]() to scrape all of the songs between the two decades 2000-2010 and 2010-2020. I saved all of the songs into a text file (.json file) and removed any repeating songs. In order to collect data on the songs, I leveraged open source REST APIs--Spotify API (for musical insights) and Genius API (for lyrics).  
+For my original research, I began by collecting the most popular songs from the years 2000 to 2020. For this task, I utilized the Billboard Top 100’s weekly song rankings for each week from 2000 to 2020. To accomplish this, I used [billboard.py](https://github.com/guoguo12/billboard-charts) to scrape all of the songs between the two decades 2000-2010 and 2010-2020. 
+
+I saved all of the songs into json files and removed any repeating songs. In order to collect data on the songs, I had to ensure that I could write specific API queries. Thus, I organized each song into a list of JSON dictionaries where each song is a dictionary with keys representing song name, artist, and feature artist. 
+
+Next, I mvoed on to leveraging open source REST APIs, Spotify API (for musical insights) and Genius API (for lyrics), with my organized list of popular songs.  
+
+> The final organized data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)   
+> The data collection and data preprocessing scripts can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)
 
 ### **Spotify Data Collection**
 
