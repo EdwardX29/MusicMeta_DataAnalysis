@@ -15,10 +15,10 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 1. [Abstract](#i-abstract)
 2. [Questions](#ii-questions)
 3. [Background Research](#iii-background-research)
-4. [Methods](#iv-methods)
+4. [Data Collection](#iv-data-collection)
 5. [Results](#v-results)
 6. [Discussion](#vi-discussion--future-improvements)
-   
+7. [Usage](#vii-usage)
    
 
 ---
@@ -36,7 +36,9 @@ To understand how music has evolved over a short period of time between 2000 and
 * In what ways has the diversity of lyrical content in pop music evolved in the last two decades?
 * Which elements of pop music remained the same throughout the years?
 * How has the role of collaboration played in the evolution of music between these two decades?
-
+   
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s) 
+     
 ---
 ## III. Background Research
 [Full literature review](https://github.com/EdwardX29/MusicMeta_DataAnalysis/files/9312450/lit-review.docx)        
@@ -86,7 +88,25 @@ To understand how music has evolved over a short period of time between 2000 and
    
 
 ---
-## IV. Methods
+## IV. Data Collection
+
+### **Overview**
+
+Beginning with my data collection process, I had to set a definition of what a popular song is. After all, just like other music history researchers have noted, there could be a dozen metrics that constitute popularity of a song (including but not limited to a song’s streams, internet searches, and social media buzz). British researchers, Interiano et al, decided to rely on Top 100 Singles Chart by the Official Charts Company in the UK, a list that has legitimacy in the public eye. 
+
+I decided that my definition of a popular song would be similar to that of other music researchers: songs that have a high ranking in popularity on a legitimate ranking list. As a result I chose to use the Billboard Top 100 List, a weekly ranking of the 100 most popular songs in the United States, as the source of my data.
+
+
+
+### **Billboard Data Collection**
+
+For my original research, I began by collecting the most popular songs from the years 2000 to 2020. For this task, I utilized the Billboard Top 100’s weekly song rankings for each week from 2000 to 2020. To accomplish this, I used [billboard.py]() to scrape all of the songs between the two decades 2000-2010 and 2010-2020. I saved all of the songs into a text file (.json file) and removed any repeating songs. In order to collect data on the songs, I leveraged open source REST APIs--Spotify API (for musical insights) and Genius API (for lyrics).  
+
+### **Spotify Data Collection**
+
+### **Genius Data Collection**
+
+
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ---
@@ -98,3 +118,7 @@ To understand how music has evolved over a short period of time between 2000 and
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
+---
+## VII. Usage
+   
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
