@@ -47,6 +47,31 @@ To understand how music has evolved over a short period of time between 2000 and
 [Working Bibliography](https://github.com/EdwardX29/MusicMeta_DataAnalysis/files/9313073/WorkingBib.docx)
 
 
+Interiano, Myra, et al. "Musical Trends and Predictability of Success in Contemporary Songs in and out of the Top Charts."
+
+* Researchers found that successful pop songs were happier, more danceable, and had brighter timbres than their unsuccessful counterparts. 
+* At the same time, researchers also discovered that popular songs have changed in their musical characteristics particularly:
+    1. Becoming less aggressive
+    2. Utilizing more female vocals
+    3. Using more negative, anti-social, and violent lyrics
+
+Schellenberg, E. Glenn, and Christian Von Scheve. "Emotional Cues in American Popular Music: Five Decades of the Top 40."
+* Tempo has been on the rise, increasing roughly 1.4 seconds per year on average between years 1965 and 2009
+* The proportion of male artists is declining (from ~80% of  charting pop songs in the late 20th century to ~60% in the 21st century)
+* Sad-sounding songs have become more prevalent alongside "ambiguous" songs–-songs that are not obviously happy or sad
+
+Brand, Charlotte O., et al. "Cultural Evolution of Emotional Expression in 50 Years of Song Lyrics."
+* A sentiment analysis of ~200,000 songs from 1965 to 2010 revealed that lyrics have become less positive
+* Researchers analyzed 3 sources of bias that could have caused this negative shift:
+    1. Success bias: artists imitating successful older songs
+    2. Prestige bias: artists imitating successful past artists
+    3. Content bias: general audience preference towards negative lyrics
+* After analyzing data with multiple statistical models--Bayesian, aggregated binomial, and multilevel-- researchers concluded that content bias was the greatest predictor for increasingly negative lyrics, as opposed to prestige bias or success bias
+* Researchers attribute the increase of negative lyrics to random drift (natural variation) or music-specific negativity bias 
+
+
+
+
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 
