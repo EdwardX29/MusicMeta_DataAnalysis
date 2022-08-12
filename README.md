@@ -102,9 +102,16 @@ I decided that my definition of a popular song would be similar to that of other
 
 For my original research, I began by collecting the most popular songs from the years 2000 to 2020. For this task, I utilized the Billboard Top 100’s weekly song rankings for each week from 2000 to 2020. To accomplish this, I used [billboard.py](https://github.com/guoguo12/billboard-charts) to scrape all of the songs between the two decades 2000-2010 and 2010-2020. 
 
+![image](https://user-images.githubusercontent.com/69602889/184446690-eb51dacc-5f88-455c-9a0a-ed6d6c08e065.png)   
+> Script collecting all Billboard songs for 2000s & 2010s   
+
 I saved all of the songs into json files and removed any repeating songs. In order to collect data on the songs, I had to ensure that I could write specific API queries. Thus, I organized each song into a list of JSON dictionaries where each song is a dictionary with keys representing song name, artist, and feature artist. 
 
-Next, I mvoed on to leveraging open source REST APIs, Spotify API (for musical insights) and Genius API (for lyrics), with my organized list of popular songs.  
+![image](https://user-images.githubusercontent.com/69602889/184446437-e4a7f81c-b754-4bd1-9fc4-70a90be204d3.png)    
+> Script isolating song name, artist, and features   
+
+
+Next, I moved on to leveraging open source REST APIs, Spotify API (for musical insights) and Genius API (for lyrics), with my organized list of popular songs.  
 
 > The final organized data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)   
 > The data collection and data preprocessing scripts can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)
