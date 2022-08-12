@@ -118,8 +118,15 @@ Next, I moved on to leveraging open source REST APIs, Spotify API (for musical i
 
 ### **Spotify Data Collection**
 
+
+
+> The final musical aspects data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Data)
+> The scripts for Spotify API queries can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Scripts)
+
 ### **Genius Data Collection**
 
+> The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)
+> The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
