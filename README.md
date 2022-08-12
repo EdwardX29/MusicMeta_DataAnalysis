@@ -1,9 +1,12 @@
 # Musical Metamorphasis: A Study of the Evolution of Popular Music (2000s & 2010s)
-A final [Ulysses Research](https://sites.google.com/mcpsmd.net/ulysses/home) project by Edward Xiao (NWHS '22)   
+### A final [Ulysses Research](https://sites.google.com/mcpsmd.net/ulysses/home) project by Edward Xiao (NWHS '22)   
+---
+
 <img src="https://user-images.githubusercontent.com/69602889/184269248-dbe18bf2-5901-4714-80ed-309f0200090b.jpg" alt="drawing" width="600"/>
 
+> Ed at his table at the Ulysses Fair
 
-
+---
 ## Project Presentation video
 https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-a5ec-2043ec1b3e4b.mp4
 
@@ -15,7 +18,7 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 5. [Results](#v-results)
 6. [Discussion](#vi-discussion--future-improvements)
 
-
+---
 ## I. Abstract
 Music is an integral part of culture around the world. From the beginning of human history to the present day, music has played an important role in the development of culture and expression. Although its ubiquity and pervasive influence is difficult to deny, its ability to adapt in different time periods and geographic locations is an aspect that truly makes it unique. In the digital age, music has become an increasingly important part of pop culture as the internet (with its wide range of music streaming platforms) has made it easy to access music. At the same time, music creation software has allowed artists to create songs faster and at less cost than previous eras. Because of this newfound accessibility to music streaming and music creation software, there has been an uptick in music production and consumption. These revolutions have facilitated an environment where evolution and change in musical elements have occurred. Even between brief periods of time like the twenty years between 2000 and 2020--which pale in comparison to the length of musical history in totality--changes in popular music have inspired debates over what musical elements have created the greatest impact in distinguishing pop music eras.  
 
