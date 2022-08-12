@@ -109,6 +109,9 @@ I saved all of the songs into json files and removed any repeating songs. In ord
 
 ![image](https://user-images.githubusercontent.com/69602889/184446437-e4a7f81c-b754-4bd1-9fc4-70a90be204d3.png)    
 > [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Billboard/Scripts/getArtistsFeatures.py) isolating song name, artist, and features   
+    
+![image](https://user-images.githubusercontent.com/69602889/184447244-c342ceb6-461d-4be7-92e9-680cbd33d925.png)
+> [Result](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Billboard/Data/2000sSongs%26Artists%26FT.json) of data processing   
 
 
 Next, I moved on to leveraging open source REST APIs, Spotify API (for musical insights) and Genius API (for lyrics), with my organized list of popular songs.  
