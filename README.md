@@ -37,10 +37,6 @@ To understand how music has evolved over a short period of time between 2000 and
 * Which elements of pop music remained the same throughout the years?
 * How has the role of collaboration played in the evolution of music between these two decades?
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
-   
-   
-
 ---
 ## III. Background Research
 [Full literature review](https://github.com/EdwardX29/MusicMeta_DataAnalysis/files/9312450/lit-review.docx)        
@@ -78,6 +74,13 @@ Varnum, Michael E. W., et al. "Why are Song Lyrics Becoming Simpler? A Time Seri
     3. The increasing quantity of songs released each year by virtue of the internet or other distribution services
 * The researchers conjecture that artists who utilize simpler lyrics could attract new listeners while stifling competition with memorable song snippets 
 
+Mauch, Matthias, et al. "The Evolution of Popular Music: USA 1960–2010."
+
+* Some musical features like "dominant 7th chords", "male voice, vocal" and "piano, orchestra, harmonic" have seen very little change in frequency between the 1960s and 2000s
+*  Other musical motifs like "minor-seventh chords" and "energetic, speech, bright" have seen gradual growth in frequency in alignment with the rise of particular genres in popular music
+* The rise and fall of genres has also potentially caused fluctuations in musical diversity--the number of unique songs and styles
+* Many "in-style" musical elements see notable growth before stabilizing at an equilibrium level
+    * This suggests that momentary diversity (or lack thereof) is correlated strongly with genre-specific growth or decline, not a permanent trend of music
 
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
