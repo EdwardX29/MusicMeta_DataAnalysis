@@ -116,20 +116,20 @@ I saved all of the songs into json files and removed any repeating songs. In ord
 
 Next, I moved on to leveraging open source REST APIs, Spotify API (for musical insights) and Genius API (for lyrics), with my organized list of popular songs.  
 
-> The final organized data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)   
+> The final organized data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)       
 > The data collection and data preprocessing scripts can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)
 
 ### **Spotify Data Collection**
 
 
 
-> The final musical aspects data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Data)
-> The scripts for Spotify API queries can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Scripts)
+> The final musical aspects data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Data)       
+> The scripts for Spotify API queries can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Scripts)    
 
 ### **Genius Data Collection**
 
 > The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)    
-> The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)
+> The scripts for Geniu s API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
