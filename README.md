@@ -1,6 +1,8 @@
 # Musical Metamorphasis: A Study of the Evolution of Popular Music (2000s & 2010s)
 A final [Ulysses Research](https://sites.google.com/mcpsmd.net/ulysses/home) project by Edward Xiao (NWHS '22)
 ![ulysses-shirt](https://user-images.githubusercontent.com/69602889/184268755-b9a839d4-46ff-4b40-b95b-55235b2cb2d9.jpg)
+<img src="https://user-images.githubusercontent.com/69602889/184268755-b9a839d4-46ff-4b40-b95b-55235b2cb2d9.jpg" alt="drawing" width="200"/>
+
 
 ## Project Presentation video
 https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-a5ec-2043ec1b3e4b.mp4
