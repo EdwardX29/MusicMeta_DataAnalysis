@@ -29,6 +29,7 @@ To understand how music has evolved over a short period of time between 2000 and
 
 ## III. Background Research
 Full [literature review](https://github.com/EdwardX29/MusicMeta_DataAnalysis/files/9312450/lit-review.docx)
+[Working Bibliography](https://github.com/EdwardX29/MusicMeta_DataAnalysis/files/9313073/WorkingBib.docx)
 
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
