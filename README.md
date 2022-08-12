@@ -43,7 +43,7 @@ To understand how music has evolved over a short period of time between 2000 and
 [Working Bibliography](https://github.com/EdwardX29/MusicMeta_DataAnalysis/files/9313073/WorkingBib.docx)
 
 
-Interiano, Myra, et al. "Musical Trends and Predictability of Success in Contemporary Songs in and out of the Top Charts."
+### **Interiano, Myra, et al. "Musical Trends and Predictability of Success in Contemporary Songs in and out of the Top Charts."**
 
 * Researchers found that successful pop songs were happier, more danceable, and had brighter timbres than their unsuccessful counterparts. 
 * At the same time, researchers also discovered that popular songs have changed in their musical characteristics particularly:
@@ -51,12 +51,12 @@ Interiano, Myra, et al. "Musical Trends and Predictability of Success in Contemp
     2. Utilizing more female vocals
     3. Using more negative, anti-social, and violent lyrics
 
-Schellenberg, E. Glenn, and Christian Von Scheve. "Emotional Cues in American Popular Music: Five Decades of the Top 40."
+### **Schellenberg, E. Glenn, and Christian Von Scheve. "Emotional Cues in American Popular Music: Five Decades of the Top 40."**
 * Tempo has been on the rise, increasing roughly 1.4 seconds per year on average between years 1965 and 2009
 * The proportion of male artists is declining (from ~80% of  charting pop songs in the late 20th century to ~60% in the 21st century)
 * Sad-sounding songs have become more prevalent alongside "ambiguous" songs–-songs that are not obviously happy or sad
 
-Brand, Charlotte O., et al. "Cultural Evolution of Emotional Expression in 50 Years of Song Lyrics."
+### **Brand, Charlotte O., et al. "Cultural Evolution of Emotional Expression in 50 Years of Song Lyrics."**
 * A sentiment analysis of ~200,000 songs from 1965 to 2010 revealed that lyrics have become less positive
 * Researchers analyzed 3 sources of bias that could have caused this negative shift:
     1. Success bias: artists imitating successful older songs
@@ -65,7 +65,7 @@ Brand, Charlotte O., et al. "Cultural Evolution of Emotional Expression in 50 Ye
 * After analyzing data with multiple statistical models--Bayesian, aggregated binomial, and multilevel-- researchers concluded that content bias was the greatest predictor for increasingly negative lyrics, as opposed to prestige bias or success bias
 * Researchers attribute the increase of negative lyrics to random drift (natural variation) or music-specific negativity bias 
 
-Varnum, Michael E. W., et al. "Why are Song Lyrics Becoming Simpler? A Time Series Analysis of Lyrical Complexity in Six Decades of American Popular Music."
+### **Varnum, Michael E. W., et al. "Why are Song Lyrics Becoming Simpler? A Time Series Analysis of Lyrical Complexity in Six Decades of American Popular Music."**
 * Song lyrics have become simpler over time as shown by an analysis of lyrical compressibility of pop music from 1958 to 2016
 * Researchers were able to find that simpler lyrics were strongly associated with the presence of newer musical production
 * Researchers believe that simpler song lyrics could be attributed to the following factors:   
@@ -74,14 +74,13 @@ Varnum, Michael E. W., et al. "Why are Song Lyrics Becoming Simpler? A Time Seri
     3. The increasing quantity of songs released each year by virtue of the internet or other distribution services
 * The researchers conjecture that artists who utilize simpler lyrics could attract new listeners while stifling competition with memorable song snippets 
 
-Mauch, Matthias, et al. "The Evolution of Popular Music: USA 1960–2010."
+### **Mauch, Matthias, et al. "The Evolution of Popular Music: USA 1960–2010."**
 
 * Some musical features like "dominant 7th chords", "male voice, vocal" and "piano, orchestra, harmonic" have seen very little change in frequency between the 1960s and 2000s
 *  Other musical motifs like "minor-seventh chords" and "energetic, speech, bright" have seen gradual growth in frequency in alignment with the rise of particular genres in popular music
 * The rise and fall of genres has also potentially caused fluctuations in musical diversity--the number of unique songs and styles
 * Many "in-style" musical elements see notable growth before stabilizing at an equilibrium level
     * This suggests that momentary diversity (or lack thereof) is correlated strongly with genre-specific growth or decline, not a permanent trend of music
-
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
