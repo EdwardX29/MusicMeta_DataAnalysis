@@ -69,6 +69,14 @@ Brand, Charlotte O., et al. "Cultural Evolution of Emotional Expression in 50 Ye
 * After analyzing data with multiple statistical models--Bayesian, aggregated binomial, and multilevel-- researchers concluded that content bias was the greatest predictor for increasingly negative lyrics, as opposed to prestige bias or success bias
 * Researchers attribute the increase of negative lyrics to random drift (natural variation) or music-specific negativity bias 
 
+Varnum, Michael E. W., et al. "Why are Song Lyrics Becoming Simpler? A Time Series Analysis of Lyrical Complexity in Six Decades of American Popular Music."
+* Song lyrics have become simpler over time as shown by an analysis of lyrical compressibility of pop music from 1958 to 2016
+* Researchers were able to find that simpler lyrics were strongly associated with the presence of newer musical production
+* Researchers believe that simpler song lyrics could be attributed to the following factors:   
+    1. Cultural influences
+    2. Complex lyrics could obstruct the enjoyability of the song to certain listeners, deterring them from listening again
+    3. The increasing quantity of songs released each year by virtue of the internet or other distribution services
+* The researchers conjecture that artists who utilize simpler lyrics could attract new listeners while stifling competition with memorable song snippets 
 
 
 
