@@ -145,7 +145,8 @@ After collecting track IDs for as many songs as possible (some songs inevitably 
 
 In order to investigate lyrical complexity and lyrical valence (how lyrics convey happiness), I utilized Genius API's lyrics search features.
 
-
+![image](https://user-images.githubusercontent.com/69602889/184464142-adaaf546-be67-4d0c-b839-e3a4804a166d.png)
+> Script that searches for song lyrics using song and artist name from initial Billboard data
 
 > The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
 > The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
