@@ -181,7 +181,7 @@ In order to answer this question, I investigated the proportion of songs with fe
 
 A quick search revealed that 686 out of 3519 in the 2000s had features (about 19%) and 1409 out of 5364 songs had features (about 26%). Using a [2 Proportion Z-Test](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/features/featuresSignificance.ipynb) at the significance level of 0.05 reveals that there is a significant difference between the proportion of songs with collaborators in the 2000s versus the 2010s. **Notably that there is sufficient evidence to conclude that the proportion of songs with features in the 2000s is less than the 2010s.**
 
-![image](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/.github/images/features/featuresPlot.png)
+![image](https://raw.githubusercontent.com/EdwardX29/MusicMeta_DataAnalysis/main/.github/images/features/featuresPlot.png)
 
 
 
