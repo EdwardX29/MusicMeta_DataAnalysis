@@ -159,6 +159,22 @@ The scripts for Genius API queries and cleaning lyrics can be found [here](https
 
 ---
 ## V. Analysis & Results
+
+With all my data collected, I began analysis.
+
+### Music Valence [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalValence) [Spotify and Genius]
+How has musical valence (the measure of happiness) changed between the eras 2000-2010 and 2010-2020?
+
+### Lyrical Diversity [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalDensity) [Genius]
+In what ways has the diversity of lyrical content in pop music evolved in the last two decades?
+
+### Elements of Pop [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects) [Spotify]
+Which elements of pop music remained the same throughout the years?
+ 
+### Collaboration [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/features) [Billboard]
+How has the role of collaboration changed between these two decades?
+
+
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 ---
