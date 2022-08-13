@@ -173,6 +173,15 @@ In what ways has the diversity of lyrical content in pop music evolved in the la
 
 ### Elements of Pop [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects) [Spotify]
 Which elements of pop music remained the same throughout the years?
+
+Analysing these musical features of over 7000 songs (roughly 3000 from the 2000s and 4000 from the 2010s) yielded both significant and insignificant results according to my Two Sample T-Test.
+
+Acousticness, Danceability, Loudness, and Tempo all saw a significant difference according to the T-Tests, suggesting that there has been a significant evolution in musical elements between the 2000s and 2010s.
+
+However, what is more interesting is that Instrumentalness did not see any significant changes. This is somewhat surprising since instrumentation and song production has seen an dramatic uptick according to researchers. This perhaps could be explained by the fact that vocals in pop music are still used predominantly over instrumentation.
+
+> An exhaustive analysis of more musical features can be found in this [Notebook](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/musicalAspects/analysis.ipynb)
+
  
 ### Collaboration [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/features) [Billboard]
 How has the role of collaboration changed between these two decades?
