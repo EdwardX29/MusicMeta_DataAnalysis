@@ -135,7 +135,7 @@ After collecting track IDs for as many songs as possible (some songs inevitably 
 ![image](https://user-images.githubusercontent.com/69602889/184460958-bb31d3ce-6d26-4f7b-94c2-f512ddbb835e.png)    
 > [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Spotify/Scripts/getAudioFeatures.py) that uses track IDs to get audio features data for each song    
     
-![image](https://user-images.githubusercontent.com/69602889/184461952-f1fe6be3-6dc6-4ea1-a279-5bee3b45e4a1.png)
+![image](https://user-images.githubusercontent.com/69602889/184462515-5982b458-95eb-4c7b-adda-b5bbc17ad167.png)
 > Example of audio features data from Spotify    
 
 
