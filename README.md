@@ -178,8 +178,10 @@ I separated this subquestion into explore lyrical valence (how happy lyrics are)
 To compare the audio valence of the pop songs from 2000-2010 and 2010-2020, I gathered 2978 songs (from the 2000s) and 4682 songs (from the 2010s) from Spotify’s catalog and searched for their audio features. Among these audio features is valence which is a number from 0.0 to 1.0 where a number closer to 0.0 means a negative song in terms of audio and a number closer to 1.0 means a positive one.
 
 I employed [2-Sample T-test](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/musicalAspects/analysis.ipynb) on my collected data, which compares whether two populations means (in this case, audio valence of 2000s pop songs and 2010s pop songs) are equal are not. The resulting p-value was considerably less than the 5% significance level. As a result, the test revealed that there is sufficient evidence to reject the null hypothesis that 2000s music and 2010s music have the same audio valence.     
-![image](https://user-images.githubusercontent.com/69602889/184509559-3ba06927-dc3c-45f7-986d-eaf21c1218d8.png)
+![image](https://user-images.githubusercontent.com/69602889/184509559-3ba06927-dc3c-45f7-986d-eaf21c1218d8.png)   
 
+
+Moving on to Lyrical Valence, I gathered the lyrics for 3437 songs from the 2000s and 5296 songs from the 2010s using Genius’s Lyrics API. To find how positive lyrics are, I looked to Sentiment Analysis which specifically targets the emotional values of language text. After storing all of the lyrics to a text file, I employed a sentiment analysis algorithm from the Natural Language Process Toolkit library to analyse the emotional content of all the song lyrics.
 
 
 ![image](https://user-images.githubusercontent.com/69602889/184507745-3e1761b2-9313-40ef-be80-01cc020444a7.png)
