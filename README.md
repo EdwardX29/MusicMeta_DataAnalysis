@@ -162,7 +162,10 @@ The scripts for Genius API queries and cleaning lyrics can be found [here](https
 
 With all my data collected, I began analysis.
 
-### Music Valence [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalValence) [Spotify and Genius]
+### Music Valence [Spotify and Genius]   
+[Lyrical Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalValence)   
+[Audio Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects)   
+
 How has musical valence (the measure of happiness) changed between the eras 2000-2010 and 2010-2020?
 
 ### Lyrical Diversity [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalDensity) [Genius]
