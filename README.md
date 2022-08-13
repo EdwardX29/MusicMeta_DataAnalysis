@@ -149,7 +149,7 @@ In order to investigate lyrical complexity and lyrical valence (how lyrics conve
 > [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Genius/Scripts/collectLyrics.py) that searches for song lyrics using song and artist name from initial Billboard data
 
 ![image](https://user-images.githubusercontent.com/69602889/184498007-7c9d579b-d51b-41ce-9d11-0fa9f3c05952.png)
-![image](https://user-images.githubusercontent.com/69602889/184498056-09e21547-f89d-4790-bebe-66f62574bee0.png)
+![image](https://user-images.githubusercontent.com/69602889/184499253-9d05c5da-87d7-4e06-8981-1798c39c0106.png)
 > Scripts that clean up lyrics for NLP
 
 > The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
