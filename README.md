@@ -123,8 +123,9 @@ Next, I moved on to leveraging open source REST APIs, Spotify API (for musical i
 
 In order to answer the sub-questions "which elements of pop music remained the same throughout the years" and "How has musical valence changed between the eras 2000-2010 and 2010-2020?", I enlisted the help of Spotify API's [Audio Features Endpoint](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features). This endpoint  retuns granular data about the audio features of a Spotify track. These audio features include valence, danceability, duration, and liveness among others.
 
-In order to call the endpoint, however, one first needs to find Spotify's "track id" of a song. Using the song information collected from Billboard, one can use Spotify's [Search Endpoint](https://developer.spotify.com/documentation/web-api/reference/#/operations/search) to find track ids. 
-
+In order to call the endpoint, however, one first needs to find Spotify's "track id" of a song. Using the song information collected from Billboard, one can use Spotify's [Search Endpoint](https://developer.spotify.com/documentation/web-api/reference/#/operations/search) to find track ids.      
+![image](https://user-images.githubusercontent.com/69602889/184460821-11052c46-17a7-44dc-b210-d0312998d00c.png)     
+> [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Spotify/Scripts/getIDs.py) that uses Billboard data to search for Spotify track ID
 
 
 
