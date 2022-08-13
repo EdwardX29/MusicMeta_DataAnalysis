@@ -175,6 +175,7 @@ In what ways has the diversity of lyrical content in pop music evolved in the la
 Which elements of pop music remained the same throughout the years?
 
 Analysing these musical features of over 7000 songs (roughly 3000 from the 2000s and 4000 from the 2010s) yielded both significant and insignificant results according to my Two Sample T-Test.      
+         
 ![image](https://user-images.githubusercontent.com/69602889/184507615-8caf27b8-3814-4da4-816f-e88ee0920a80.png)      
 
 Acousticness, Danceability, Loudness, and Tempo all saw a significant difference according to the T-Tests, suggesting that there has been a significant evolution in musical elements between the 2000s and 2010s.
