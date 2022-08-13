@@ -167,9 +167,13 @@ With all my data collected, I began analysis.
 [Audio Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects)   
 
 How has musical valence (the measure of happiness) changed between the eras 2000-2010 and 2010-2020?
+![image](https://user-images.githubusercontent.com/69602889/184507745-3e1761b2-9313-40ef-be80-01cc020444a7.png)
+![image](https://user-images.githubusercontent.com/69602889/184507754-b3697b83-fb7a-4945-acc7-4ba4bf8ba403.png)
 
 ### Lyrical Diversity [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalDensity) [Genius]
 In what ways has the diversity of lyrical content in pop music evolved in the last two decades?
+![image](https://user-images.githubusercontent.com/69602889/184507776-df907115-1fa3-42c1-88f6-f7551302d3e0.png)
+
 
 ### Elements of Pop [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects) [Spotify]
 Which elements of pop music remained the same throughout the years?
