@@ -115,8 +115,8 @@ I saved all of the songs into json files and removed any repeating songs. In ord
 
 Next, I moved on to leveraging open source REST APIs, Spotify API (for musical insights) and Genius API (for lyrics), with my organized list of popular songs.  
 
-> The final organized data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)       
-> The data collection and data preprocessing scripts can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)
+The final organized data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)       
+The data collection and data preprocessing scripts can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Billboard/Data)
 
 ### **Spotify Data Collection**
 
@@ -138,8 +138,8 @@ After collecting track IDs for as many songs as possible (some songs inevitably 
 > Example of audio features data from Spotify    
 
 
-> The final musical aspects data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Data)       
-> The scripts for Spotify API queries can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Scripts)    
+The final musical aspects data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Data)       
+The scripts for Spotify API queries can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Scripts)    
 
 ### **Genius Data Collection**
 
@@ -152,8 +152,8 @@ In order to investigate lyrical complexity and lyrical valence (how lyrics conve
 ![image](https://user-images.githubusercontent.com/69602889/184499253-9d05c5da-87d7-4e06-8981-1798c39c0106.png)
 > Scripts that clean up lyrics for NLP
 
-> The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
-> The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
+The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
+The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
