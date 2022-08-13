@@ -18,7 +18,6 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 4. [Data Collection](#iv-data-collection)
 5. [Results](#v-results)
 6. [Discussion](#vi-discussion--future-improvements)
-7. [Usage](#vii-usage)
    
 
 ---
@@ -155,7 +154,4 @@ After collecting track IDs for as many songs as possible (some songs inevitably 
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
----
-## VII. Usage
-   
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+
