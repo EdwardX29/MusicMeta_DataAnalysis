@@ -162,17 +162,30 @@ The scripts for Genius API queries and cleaning lyrics can be found [here](https
 
 With all my data collected, I began analysis.
 
+---
 ### Music Valence [Spotify and Genius]   
+How has musical valence (the measure of happiness) changed between the eras 2000-2010 and 2010-2020?
+
 [Lyrical Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalValence)   
 [Audio Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects)   
 
-How has musical valence (the measure of happiness) changed between the eras 2000-2010 and 2010-2020?
 
 I separated this subquestion into explore lyrical valence (how happy lyrics are) and audio valence (how happy a song sounds) because some songs may sound like they have high valence but actually have sad lyrics and vice versa. If I only chose to investigate one or the other, it would not fully encompass what makes a song happy or sad. 
+
+      
+           
+            
+To compare the audio valence of the pop songs from 2000-2010 and 2010-2020, I gathered 2978 songs (from the 2000s) and 4682 songs (from the 2010s) from Spotify’s catalog and searched for their audio features. Among these audio features is valence which is a number from 0.0 to 1.0 where a number closer to 0.0 means a negative song in terms of audio and a number closer to 1.0 means a positive one.
+
+I employed a statistical test called a 2-Sample T-test on my collected data, which compares whether two populations means (in this case, audio valence of 2000s pop songs and 2010s pop songs) are equal are not. The resulting p-value was considerably less than the 5% significance level. As a result, the test revealed that there is sufficient evidence to reject the null hypothesis that 2000s music and 2010s music have the same audio valence. 
+![image](https://user-images.githubusercontent.com/69602889/184509559-3ba06927-dc3c-45f7-986d-eaf21c1218d8.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/69602889/184507745-3e1761b2-9313-40ef-be80-01cc020444a7.png)
 ![image](https://user-images.githubusercontent.com/69602889/184507754-b3697b83-fb7a-4945-acc7-4ba4bf8ba403.png)
 
+---    
 ### Lyrical Diversity [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalDensity) [Genius]
 In what ways has the diversity of lyrical content in pop music evolved in the last two decades?
     
@@ -183,7 +196,7 @@ Lexical density is a way of measuring linguistic complexity and can be calcualte
 
 A [two-sided proportions difference test](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/lyricalDensity/Density.ipynb) confirmed that there is not sufficient evidence to conclude that there is any difference between the lexical density of 2000s and 2010s pop music (at least according to my data). This conclusion is contrary to what my background research stated, suggesting that the speculated trend about lyrical content becoming less sophisticated could be occurring over a longer period of time, perhaps the past 70 years (which was what previous researchers used as a sample to draw this conclusion) instead of the last 20 years which I investigated. 
 
-
+--- 
 ### Elements of Pop [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects) [Spotify]
 Which elements of pop music remained the same throughout the years?
 
@@ -197,7 +210,7 @@ However, what is more interesting is that Instrumentalness did not see any signi
 
 > An exhaustive analysis of more musical features can be found in this [Notebook](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/musicalAspects/analysis.ipynb)
 
- 
+--- 
 ### Collaboration [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/features) [Billboard]
 How has the role of collaboration changed between these two decades?
 
