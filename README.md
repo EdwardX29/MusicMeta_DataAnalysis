@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 3. [Background Research](#iii-background-research)
 4. [Data Collection](#iv-data-collection)
 5. [Analysis & Results](#v-analysis--results)
-6. [Discussion](#vi-discussion--future-improvements)
+6. [Improvements](#vi-improvements-for-the-future)
    
 
 ---
