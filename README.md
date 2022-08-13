@@ -146,11 +146,11 @@ After collecting track IDs for as many songs as possible (some songs inevitably 
 In order to investigate lyrical complexity and lyrical valence (how lyrics convey happiness), I utilized [Genius API](https://pypi.org/project/lyricsgenius/)'s lyrics search features.
 
 ![image](https://user-images.githubusercontent.com/69602889/184464142-adaaf546-be67-4d0c-b839-e3a4804a166d.png)
-> Script that searches for song lyrics using song and artist name from initial Billboard data
+> [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Genius/Scripts/collectLyrics.py) that searches for song lyrics using song and artist name from initial Billboard data
 
 ![image](https://user-images.githubusercontent.com/69602889/184498007-7c9d579b-d51b-41ce-9d11-0fa9f3c05952.png)
 ![image](https://user-images.githubusercontent.com/69602889/184498056-09e21547-f89d-4790-bebe-66f62574bee0.png)
-> scripts that clean up lyrics for NLP
+> Scripts that clean up lyrics for NLP
 
 > The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
 > The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
