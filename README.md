@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 2. [Questions](#ii-questions)
 3. [Background Research](#iii-background-research)
 4. [Data Collection](#iv-data-collection)
-5. [Results](#v-results)
+5. [Analysis & Results](#v-analysis-&-results)
 6. [Discussion](#vi-discussion--future-improvements)
    
 
@@ -158,7 +158,7 @@ In order to investigate lyrical complexity and lyrical valence (how lyrics conve
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ---
-## V. Results
+## V. Analysis & Results
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 ---
