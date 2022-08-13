@@ -182,10 +182,14 @@ I employed [2-Sample T-test](https://github.com/EdwardX29/MusicMeta_DataAnalysis
 
 
 Moving on to Lyrical Valence, I gathered the lyrics for 3437 songs from the 2000s and 5296 songs from the 2010s using Genius’s Lyrics API. To find how positive lyrics are, I looked to Sentiment Analysis which specifically targets the emotional values of language text. After storing all of the lyrics to a text file, I employed a sentiment analysis algorithm from the Natural Language Process Toolkit library to analyse the emotional content of all the song lyrics.
+![image](https://user-images.githubusercontent.com/69602889/184510106-2d250342-2359-4301-84e7-8c617dae6722.png)   
+> [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/lyricalValence/getLyricalValences.ipynb) using sentiment analysis to cound positive, negative, and neutral songs
 
+![image](https://user-images.githubusercontent.com/69602889/184507745-3e1761b2-9313-40ef-be80-01cc020444a7.png) ![image](https://user-images.githubusercontent.com/69602889/184507754-b3697b83-fb7a-4945-acc7-4ba4bf8ba403.png)    
+I employed a a [2-Proportion Z-test](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/lyricalValence/proportionTests.ipynb) on my collected data, which compares whether two population proportions are equal are not. The one-tail tests that I performed revealed that there hasn’t been a significant change in the proportion of positive or neutral songs between 2000-2010 and 2010-2020. However, a one-tail test revealed that there was a significant difference between the proportion of negative songs between the two decades. As such there is sufficient evidence to conclude that the proportion of negative songs has increased between the two decades.     
+![image](https://user-images.githubusercontent.com/69602889/184510202-20502b2e-59f8-46aa-b675-230bc23e1766.png)
 
-![image](https://user-images.githubusercontent.com/69602889/184507745-3e1761b2-9313-40ef-be80-01cc020444a7.png)
-![image](https://user-images.githubusercontent.com/69602889/184507754-b3697b83-fb7a-4945-acc7-4ba4bf8ba403.png)
+This suggests that music has taken a darker turn, perhaps being used as a means of coping with negative emotions in the contemporary age. Negative lyrics likely allow disillusioned listeners to vent their negative emotions without consequences.
 
 ---    
 ### Lyrical Diversity [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalDensity) [Genius]
