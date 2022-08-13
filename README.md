@@ -143,6 +143,10 @@ After collecting track IDs for as many songs as possible (some songs inevitably 
 
 ### **Genius Data Collection**
 
+In order to investigate lyrical complexity and lyrical valence (how lyrics convey happiness), I utilized Genius API's lyrics search features.
+
+
+
 > The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
 > The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
 
