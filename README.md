@@ -233,7 +233,12 @@ This shift implies that artists are more inclined to collaborate with one anothe
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 ---
-## VI. Discussion & Future Improvements
+## VI. Improvements for the future
+
+* The Spotify Search algorithm that I wrote left a portion of the tracks from Billboard out because it could not find the track using the query that I wrote. In the future, it would be advantageous to experiment with writing improved queries in order to reduce the number of tracks lost.
+* Instead of using Genius API, it would be better to find a pre-existing dataset with song lyrics as Genius API often returned advertisement text instead of real song lyrics.
+* Although Billboard was used for this study, it does narrow pop songs to only those popular in the United States. There were more than a handful of foreign songs that managed to make the list, the majority was composed of English/American songs. This study could be expanded to other regions and countries to get a better view of pop music on a world stage.
+* More sophisticated NLP algorithms for lexical density and sentiment analysis 
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
