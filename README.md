@@ -125,8 +125,15 @@ In order to answer the sub-questions "which elements of pop music remained the s
 
 In order to call the endpoint, however, one first needs to find Spotify's "track id" of a song. Using the song information collected from Billboard, one can use Spotify's [Search Endpoint](https://developer.spotify.com/documentation/web-api/reference/#/operations/search) to find track ids.      
 ![image](https://user-images.githubusercontent.com/69602889/184460821-11052c46-17a7-44dc-b210-d0312998d00c.png)     
-> [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Spotify/Scripts/getIDs.py) that uses Billboard data to search for Spotify track ID
+> [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Spotify/Scripts/getIDs.py) that uses Billboard data to search for Spotify track ID   
 
+![image](https://user-images.githubusercontent.com/69602889/184461068-c1a1060d-8425-4239-826e-6be686a22e68.png)
+> Track IDs for some 2000s songs
+
+After collecting track IDs for as many songs as possible (some songs inevitably slip through the cracks due to the imperfect nature of Spotify's search queries), I collected the audio features data for each song using its track ID.    
+
+![image](https://user-images.githubusercontent.com/69602889/184460958-bb31d3ce-6d26-4f7b-94c2-f512ddbb835e.png)    
+> [Script](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Spotify/Scripts/getAudioFeatures.py) that uses track IDs to get audio features data for each song    
 
 
 > The final musical aspects data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Spotify/Data)       
