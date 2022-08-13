@@ -13,7 +13,7 @@ for line in lines:
 
     words = line.split(" ")
     for word in words:
-        if word not in stopwords.words('english'):
+        if word not in stopwords.words('english'): # remove filler words
             wordList.append(word.strip().lower())
 
 import json
