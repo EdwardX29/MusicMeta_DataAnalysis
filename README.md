@@ -172,7 +172,12 @@ How has musical valence (the measure of happiness) changed between the eras 2000
 
 ### Lyrical Diversity [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/lyricalDensity) [Genius]
 In what ways has the diversity of lyrical content in pop music evolved in the last two decades?
-![image](https://user-images.githubusercontent.com/69602889/184507776-df907115-1fa3-42c1-88f6-f7551302d3e0.png)
+    
+Lexical density is a way of measuring linguistic complexity and can be calcualted to find the lyrical diversity of songs from the 2000s and the 2010s. I chose to use a simplified calculation of lexical density: the ratio of unique words to total words (in both musical decades). 
+![image](https://user-images.githubusercontent.com/69602889/184508821-3f2b30af-4ae3-452a-b8ad-16539ad29160.png)    
+![image](https://user-images.githubusercontent.com/69602889/184507776-df907115-1fa3-42c1-88f6-f7551302d3e0.png)   
+     
+A two-sided proportions difference test confirmed that there is not sufficient evidence to conclude that there is any difference between the lexical density of 2000s and 2010s pop music (at least according to my data). This conclusion is contrary to what my background research stated, suggesting that the speculated trend about lyrical content becoming less sophisticated could be occurring over a longer period of time, perhaps the past 70 years (which was what previous researchers used as a sample to draw this conclusion) instead of the last 20 years which I investigated. 
 
 
 ### Elements of Pop [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects) [Spotify]
