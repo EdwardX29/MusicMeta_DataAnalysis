@@ -150,7 +150,7 @@ In order to investigate lyrical complexity and lyrical valence (how lyrics conve
 
 ![image](https://user-images.githubusercontent.com/69602889/184498007-7c9d579b-d51b-41ce-9d11-0fa9f3c05952.png)
 ![image](https://user-images.githubusercontent.com/69602889/184498056-09e21547-f89d-4790-bebe-66f62574bee0.png)
-
+> scripts that clean up lyrics for NLP
 
 > The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
 > The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
