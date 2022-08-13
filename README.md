@@ -183,6 +183,8 @@ A quick search revealed that 686 out of 3519 in the 2000s had features (about 19
 
 ![image](https://user-images.githubusercontent.com/69602889/184505514-6394ce92-46c4-43a8-8124-8d3b62d7abf3.png)
 ![image](https://user-images.githubusercontent.com/69602889/184505508-132fbcef-9cad-4642-bd48-781e60b562dc.png)
+     
+This shift implies that artists are more inclined to collaborate with one another on songs nowadays. This could be attributed to increased willingness for collaboration in the artists but also could be a reflection of how major music labels have made it easier for artists to make connections in the 2010s.
 
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
