@@ -178,7 +178,7 @@ Lexical density is a way of measuring linguistic complexity and can be calcualte
 ![image](https://user-images.githubusercontent.com/69602889/184507776-df907115-1fa3-42c1-88f6-f7551302d3e0.png)     
 ![image](https://user-images.githubusercontent.com/69602889/184508935-d5af9683-eda8-44d1-9a2e-7f17c725f635.png)    
 
-A two-sided proportions difference test confirmed that there is not sufficient evidence to conclude that there is any difference between the lexical density of 2000s and 2010s pop music (at least according to my data). This conclusion is contrary to what my background research stated, suggesting that the speculated trend about lyrical content becoming less sophisticated could be occurring over a longer period of time, perhaps the past 70 years (which was what previous researchers used as a sample to draw this conclusion) instead of the last 20 years which I investigated. 
+A [two-sided proportions difference test](https://github.com/EdwardX29/MusicMeta_DataAnalysis/blob/main/Findings/lyricalDensity/Density.ipynb) confirmed that there is not sufficient evidence to conclude that there is any difference between the lexical density of 2000s and 2010s pop music (at least according to my data). This conclusion is contrary to what my background research stated, suggesting that the speculated trend about lyrical content becoming less sophisticated could be occurring over a longer period of time, perhaps the past 70 years (which was what previous researchers used as a sample to draw this conclusion) instead of the last 20 years which I investigated. 
 
 
 ### Elements of Pop [Findings](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Findings/musicalAspects) [Spotify]
