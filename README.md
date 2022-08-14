@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 4. [Data Collection](#iv-data-collection)
 5. [Analysis & Results](#v-analysis--results)
 6. [Improvements](#vi-improvements-for-the-future)
-   
+7. [Interactives](#vii-interactives)   
 
 ---
 ## I. Abstract
@@ -242,4 +242,12 @@ This shift implies that artists are more inclined to collaborate with one anothe
 
 [top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
+---
+## VII. Interactives
+
+[Spotify Higher or Lower](https://edwardx29.github.io/spotify-higher-lower/) with researched songs    
+[Spotify Playlist](https://open.spotify.com/playlist/5bJE5a9IN2GkQ8CYRtgumX?si=587cf37904fd4318) with researched songs      
+Spotify [Top Song Aesthetic Generator](http://biographify.herokuapp.com/)     
+
+[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
