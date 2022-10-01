@@ -155,7 +155,7 @@ In order to investigate lyrical complexity and lyrical valence (how lyrics conve
 The final lyrics data can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Data)      
 The scripts for Genius API queries and cleaning lyrics can be found [here](https://github.com/EdwardX29/MusicMeta_DataAnalysis/tree/main/Genius/Scripts)   
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ---
 ## V. Analysis & Results
@@ -230,7 +230,7 @@ A quick search revealed that 686 out of 3519 in the 2000s had features (about 19
 This shift implies that artists are more inclined to collaborate with one another on songs nowadays. This could be attributed to increased willingness for collaboration in the artists but also could be a reflection of how major music labels have made it easier for artists to make connections in the 2010s.
 
 
-[top](#musical-metamorphsis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 ---
 ## VI. Improvements for the future
