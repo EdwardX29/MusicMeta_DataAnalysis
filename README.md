@@ -1,4 +1,4 @@
-# Musical Metamorphasis: A Study of the Evolution of Popular Music (2000s & 2010s)
+# Musical Metamorphosis: A Study of the Evolution of Popular Music (2000s & 2010s)
 ### A final [Ulysses Research](https://sites.google.com/mcpsmd.net/ulysses/home) project by Edward Xiao (NWHS '22)   
 ---
 
