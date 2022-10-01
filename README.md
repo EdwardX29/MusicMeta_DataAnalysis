@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/69602889/184217957-7ffea64e-420a-445e-
 ## I. Abstract
 Music is an integral part of culture around the world. From the beginning of human history to the present day, music has played an important role in the development of culture and expression. Although its ubiquity and pervasive influence is difficult to deny, its ability to adapt in different time periods and geographic locations is an aspect that truly makes it unique. In the digital age, music has become an increasingly important part of pop culture as the internet (with its wide range of music streaming platforms) has made it easy to access music. At the same time, music creation software has allowed artists to create songs faster and at less cost than previous eras. Because of this newfound accessibility to music streaming and music creation software, there has been an uptick in music production and consumption. These revolutions have facilitated an environment where evolution and change in musical elements have occurred. Even between brief periods of time like the twenty years between 2000 and 2020--which pale in comparison to the length of musical history in totality--changes in popular music have inspired debates over what musical elements have created the greatest impact in distinguishing pop music eras.  
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
    
 
@@ -36,7 +36,7 @@ In order to better investigate how music has changed from the 2000s to the 2010s
 * Which elements of pop music remained the same throughout the years?
 * How has the role of collaboration changed between these two decades?
    
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s) 
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s) 
      
 ---
 ## III. Background Research
@@ -83,7 +83,7 @@ In order to better investigate how music has changed from the 2000s to the 2010s
 * Many "in-style" musical elements see notable growth before stabilizing at an equilibrium level
     * This suggests that momentary diversity (or lack thereof) is correlated strongly with genre-specific growth or decline, not a permanent trend of music
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 
 ---
@@ -230,7 +230,7 @@ A quick search revealed that 686 out of 3519 in the 2000s had features (about 19
 This shift implies that artists are more inclined to collaborate with one another on songs nowadays. This could be attributed to increased willingness for collaboration in the artists but also could be a reflection of how major music labels have made it easier for artists to make connections in the 2010s.
 
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphsis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
    
 ---
 ## VI. Improvements for the future
@@ -240,7 +240,7 @@ This shift implies that artists are more inclined to collaborate with one anothe
 * Although Billboard was used for this study, it does narrow pop songs to only those popular in the United States. There were more than a handful of foreign songs that managed to make the list, the majority was composed of English/American songs. This study could be expanded to other regions and countries to get a better view of pop music on a world stage.
 * More sophisticated NLP algorithms for lexical density and sentiment analysis 
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
 ---
 ## VII. Interactives
@@ -249,5 +249,5 @@ This shift implies that artists are more inclined to collaborate with one anothe
 [Spotify Playlist](https://open.spotify.com/playlist/5bJE5a9IN2GkQ8CYRtgumX?si=587cf37904fd4318) with researched songs      
 [Spotify Top Song Aesthetic Generator](http://biographify.herokuapp.com/)     
 
-[top](#musical-metamorphasis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
+[top](#musical-metamorphosis-a-study-of-the-evolution-of-popular-music-2000s--2010s)
 
